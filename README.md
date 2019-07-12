@@ -1,6 +1,11 @@
 # pandxlsmysql
 using this utils of Pandxlsmysql to transfer excle sheet to mysql table.
 
+python 2.7+;
+pandas;
+pymysql;
+
+
 Mysql 目标表名：
 table_name = 'hello_world'
 
@@ -32,8 +37,11 @@ start 代表从表格第几行开始读取数据
 file_path EXCEl表格文件夹目录
 table_name Mysql表名称
 add True为追加 False为清空表格写入
+
 判断表是否存在：
 p.is_table(table_name)
 
 删除表：
 p.delete_table(table_name)
+
+
