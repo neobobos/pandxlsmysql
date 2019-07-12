@@ -1,6 +1,6 @@
 # pandxlsmysql
 
-读取各种EXCEL表到MySQL数据库。using this utils of Pandxlsmysql to transfer excle sheet to mysql table.
+读取各种EXCEL表到MySQL数据库。using this utils called Pandxlsmysql to transfer excle sheets to mysqldatabase,funny done.
 
 -----------------------------------------------------------------------
 
