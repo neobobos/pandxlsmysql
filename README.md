@@ -1,10 +1,15 @@
 # pandxlsmysql
-using this utils of Pandxlsmysql to transfer excle sheet to mysql table.
 
-python 2.7+;
-pandas;
-pymysql;
+读取各种EXCEL表到MySQL数据库。using this utils of Pandxlsmysql to transfer excle sheet to mysql table.
 
+-----------------------------------------------------------------------
+
+*必安装依赖包*
+python 2.7+
+pandas
+pymysql
+
+-----------------------------------------------------------------------
 
 Mysql 目标表名：
 table_name = 'hello_world'
